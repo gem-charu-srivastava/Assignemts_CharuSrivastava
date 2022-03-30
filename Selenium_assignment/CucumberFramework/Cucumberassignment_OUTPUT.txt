@@ -1,0 +1,8 @@
+This is Netbanking landing page
+This is my login page
+This is home page
+My cards appears here 
+This is Netbanking landing page
+My userid is johnand mypassword is 4321
+This is home page
+My cards are displayed false

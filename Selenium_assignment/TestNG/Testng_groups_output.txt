@@ -1,0 +1,12 @@
+C:\Users\ch.srivastava\.jdks\openjdk-17.0.2\bin\java.exe -ea -Didea.test.cyclic.buffer.size=1048576 "-javaagent:C:\Users\ch.srivastava\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\lib\idea_rt.jar=64986:C:\Users\ch.srivastava\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\ch.srivastava\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\lib\idea_rt.jar;C:\Users\ch.srivastava\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\plugins\testng\lib\testng-rt.jar;C:\Users\ch.srivastava\IdeaProjects\Testngdemo\out\production\Testngdemo;C:\Users\ch.srivastava\Downloads\testng-6.14.3.jar;C:\Users\ch.srivastava\Downloads\jcommander-1.82.jar" com.intellij.rt.testng.RemoteTestNGStarter -usedefaultlisteners false -socket64985 @w@C:\Users\ch.srivastava\AppData\Local\Temp\idea_working_dirs_testng.tmp -temp C:\Users\ch.srivastava\AppData\Local\Temp\idea_testng.tmp
+[TestNGContentHandler] [WARN] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >" at the top of your file, otherwise TestNG may fail or not work as expected.
+Charu Srivastava 
+I am in gemini solution
+
+===============================================
+Suite
+Total tests run: 2, Failures: 0, Skips: 0
+===============================================
+
+
+Process finished with exit code 0
